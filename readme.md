@@ -1,5 +1,5 @@
 ## Kritische Sicherheitslücke
-### PrintNightmare CVE-2021-34527
+### PrintNightmare CVE-2021-1675, CVE-2021-34527
 
 z.Z. noch keine Lösung von Microsoft (Stand 02.07.2021)  
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527  
