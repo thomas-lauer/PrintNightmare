@@ -11,6 +11,7 @@ Betrifft alle Betriebsystemversionen (Server und Client)
 * Abschalten PrinterSpooler
 * ACL Anpassen
 * EventID
+* Removal of Authenticated Users from Pre-Windows 2000 Compatible Access
 
 
 #### Links
