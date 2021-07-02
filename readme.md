@@ -13,6 +13,10 @@ Betrifft alle Betriebsystemversionen (Server und Client)
 * EventID
 * Removal of Authenticated Users from Pre-Windows 2000 Compatible Access
 
+***Die ACL Anpassung ist im Moment die vielversprechendere Lösung.  
+Es gibt zwei script POWERSHELL und BATCH/CMD die Batchvariante hat den Vorteil,  
+dass damit ein Backup/Restore aller ACLs leicht möglich ist.***  
+
 
 #### Links
 <https://github.com/LaresLLC/CVE-2021-1675>  
