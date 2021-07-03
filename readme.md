@@ -12,6 +12,7 @@ Betrifft alle Betriebsystemversionen (Server und Client)
 * ACL Anpassen
 * EventID
 * Removal of Authenticated Users from Pre-Windows 2000 Compatible Access
+* Überwachung mit Sysmon ob Dateien angelegt werden. 
 
 ***Die ACL Anpassung ist im Moment die vielversprechendere Lösung.  
 Es gibt zwei script POWERSHELL und BATCH/CMD die Batchvariante hat den Vorteil,  
