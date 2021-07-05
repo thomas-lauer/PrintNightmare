@@ -10,7 +10,7 @@ Betrifft alle Betriebsystemversionen (Server und Client)
 
 * Abschalten PrinterSpooler
 
-* ACL Anpassen
+* ACL Anpassen  
 ***Die ACL Anpassung ist im Moment die vielversprechendere Lösung.  
 Es gibt zwei script POWERSHELL und BATCH/CMD die Batchvariante hat den Vorteil,  
 dass damit ein Backup/Restore aller ACLs leicht möglich ist.
