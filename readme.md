@@ -15,8 +15,7 @@ Betrifft alle Betriebsystemversionen (Server und Client)
 Es gibt zwei script POWERSHELL und BATCH/CMD die Batchvariante hat den Vorteil,  
 dass damit ein Backup/Restore aller ACLs leicht möglich ist.
 Bei der ACL Anpassung gibt es Probleme mit GPOs welche Druckertreiber verbinden sollen
-hier werden teilweise Treiber nicht gefunden.
-***  
+hier werden teilweise Treiber nicht gefunden.***
 
 * EventID
 
