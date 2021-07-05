@@ -9,17 +9,25 @@ Betrifft alle Betriebsystemversionen (Server und Client)
 ***Möglichkeiten***
 
 * Abschalten PrinterSpooler
-* ACL Anpassen
-* EventID
-* Removal of Authenticated Users from Pre-Windows 2000 Compatible Access
-* Überwachung mit Sysmon ob Dateien angelegt werden. 
 
+* ACL Anpassen
 ***Die ACL Anpassung ist im Moment die vielversprechendere Lösung.  
 Es gibt zwei script POWERSHELL und BATCH/CMD die Batchvariante hat den Vorteil,  
-dass damit ein Backup/Restore aller ACLs leicht möglich ist.***  
+dass damit ein Backup/Restore aller ACLs leicht möglich ist.
+Bei der ACL Anpassung gibt es Probleme mit GPOs welche Druckertreiber verbinden sollen
+hier werden teilweise Treiber nicht gefunden.
+***  
+
+* EventID
+* Removal of Authenticated Users from Pre-Windows 2000 Compatible Access
+*** Hier gibt es Problem mit mit diversen Freigaben ***
+
+
+* Überwachung mit Sysmon ob Dateien angelegt werden. 
 
 
 #### Links
+[Microsoft Info zu CVE-2021-34527]<https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527>
 <https://github.com/LaresLLC/CVE-2021-1675>  
 <https://doublepulsar.com/zero-day-for-every-supported-windows-os-version-in-the-wild-printnightmare-b3fdb82f840c>  
 <https://blog.truesec.com/2021/06/30/fix-for-printnightmare-cve-2021-1675-exploit-to-keep-your-print-servers-running-while-a-patch-is-not-available/>  
