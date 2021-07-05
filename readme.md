@@ -19,15 +19,18 @@ hier werden teilweise Treiber nicht gefunden.
 ***  
 
 * EventID
+
 * Removal of Authenticated Users from Pre-Windows 2000 Compatible Access
 *** Hier gibt es Problem mit mit diversen Freigaben ***
 
-
 * Überwachung mit Sysmon ob Dateien angelegt werden. 
+
+* Micropatches von 0patch
+<https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html>
 
 
 #### Links
-[Microsoft Info zu CVE-2021-34527]<https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527>
+[Microsoft Info zu CVE-2021-34527]<https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527>  
 <https://github.com/LaresLLC/CVE-2021-1675>  
 <https://doublepulsar.com/zero-day-for-every-supported-windows-os-version-in-the-wild-printnightmare-b3fdb82f840c>  
 <https://blog.truesec.com/2021/06/30/fix-for-printnightmare-cve-2021-1675-exploit-to-keep-your-print-servers-running-while-a-patch-is-not-available/>  
