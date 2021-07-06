@@ -24,3 +24,6 @@ write-host "- Actions completed."
 # Show ACLs - Thomas Lauer
 Write-Host "settings after update"
 cmd /c "ICACLS `"$env:systemRoot\System32\spool\drivers`""
+
+# Write to UDF25 
+New-ItemProperty -Path HKLM:\SOFTWARE\CentraStage -Name Custom25 -Value "PrintSpoolerACL" -Force
