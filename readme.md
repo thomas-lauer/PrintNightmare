@@ -32,6 +32,7 @@ hier werden teilweise Treiber nicht gefunden.***
 #### Links
 [Microsoft Info zu CVE-2021-34527]<https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527>  
 [BSI]<https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2021/2021-233732-1032.pdf?__blob=publicationFile&v=4>
+[Malwarebytes]<https://blog.malwarebytes.com/cybercrime/2021/07/shutdown-kaseya-vsa-servers-now-amidst-cascading-revil-attack-against-msps-clients/>  
 <https://github.com/LaresLLC/CVE-2021-1675>  
 <https://doublepulsar.com/zero-day-for-every-supported-windows-os-version-in-the-wild-printnightmare-b3fdb82f840c>  
 <https://blog.truesec.com/2021/06/30/fix-for-printnightmare-cve-2021-1675-exploit-to-keep-your-print-servers-running-while-a-patch-is-not-available/>  
