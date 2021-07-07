@@ -1,6 +1,16 @@
 ## Kritische Sicherheitslücke
 ### PrintNightmare CVE-2021-1675, CVE-2021-34527
 
+***Out-of-Band (OOB) Security Update available for CVE-2021-34527
+MSRC / By MSRC Team / July 6, 2021
+Today Microsoft released an Out-of-Band (OOB) security update for CVE-2021-34527, which is being discussed externally as PrintNightmare. This is a cumulative update release, so it contains all previous security fixes and should be applied immediately to fully protect your systems.***    
+  
+***The fix that we released today fully addresses the public vulnerability, and it also includes a new feature that allows customers to implement stronger protections. See: KB5005010: Restricting installation of new printer drivers after applying the July 6, 2021 update***   
+  
+***Please note that not all versions of the update are available today as some packages are not quite ready for release. We feel that it is important to provide security updates as quickly as possible for systems that we can confidently protect today. Unfortunately, security updates for Windows Server 2016, Windows 10, version 1607, and Windows Server 2012 will be delayed for a short period, but they are expected soon.***   
+
+
+
 z.Z. noch keine Lösung von Microsoft (Stand 02.07.2021)  
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527  
 
