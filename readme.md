@@ -11,7 +11,9 @@
 
 Es sind zwei Schritt notwendig  
 1) Installation des Patches   
-2) Sicheheitsrichtline aktivieren <https://support.microsoft.com/de-de/topic/kb5005010-restricting-installation-of-new-printer-drivers-after-applying-the-july-6-2021-updates-31b91c02-05bc-4ada-a7ea-183b129578a7>   
+2) Sicherheitsrichtline aktivieren <https://support.microsoft.com/de-de/topic/kb5005010-restricting-installation-of-new-printer-drivers-after-applying-the-july-6-2021-updates-31b91c02-05bc-4ada-a7ea-183b129578a7> 
+
+[Script für setzen der Sicherheitsline](https://github.com/glshnu/PrintNightmare/blob/main/RestrictDriverInstallationToAdministrators.cmd)  
 
 
 
