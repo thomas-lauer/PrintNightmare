@@ -11,6 +11,12 @@
   
 ***Please note that not all versions of the update are available today as some packages are not quite ready for release. We feel that it is important to provide security updates as quickly as possible for systems that we can confidently protect today. Unfortunately, security updates for Windows Server 2016, Windows 10, version 1607, and Windows Server 2012 will be delayed for a short period, but they are expected soon.***   
 
+Vogehensweise von der DATEV dokumentiert
+https://apps.datev.de/help-center/documents/1021024
+
+Auftretende Problme in DATEV Umgebungen
+https://apps.datev.de/help-center/documents/1021009
+
 Es sind zwei Schritt notwendig  
 1) Installation des Patches   
 2) Sicherheitsrichtline aktivieren <https://support.microsoft.com/de-de/topic/kb5005010-restricting-installation-of-new-printer-drivers-after-applying-the-july-6-2021-updates-31b91c02-05bc-4ada-a7ea-183b129578a7> 
