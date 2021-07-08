@@ -3,7 +3,9 @@
 
 ### Out-of-Band (OOB) Security Update available for CVE-2021-34527
 ### MSRC / By MSRC Team / July 6, 2021
-*** Today Microsoft released an Out-of-Band (OOB) security update for CVE-2021-34527, which is being discussed externally as PrintNightmare. This is a cumulative update release, so it contains all previous security fixes and should be applied immediately to fully protect your systems.***    
+*** Today Microsoft released an Out-of-Band (OOB) security update for CVE-2021-34527, which is being discussed externally as PrintNightmare. This is a cumulative update release, so it contains all previous security fixes and should be applied immediately to fully protect your systems.***  
+
+## Updates für alle Betriebsystem vorhanden - Stand 08.07.2021
   
 ***The fix that we released today fully addresses the public vulnerability, and it also includes a new feature that allows customers to implement stronger protections. See: KB5005010: Restricting installation of new printer drivers after applying the July 6, 2021 update***   
   
