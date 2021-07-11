@@ -13,6 +13,12 @@
 
 ***After installing this and later Windows updates, users who are not administrators can only install signed print drivers to a print server. By default, administrators can install signed and unsigned printer drivers to a print server. The installed root certificates in the system’s Trusted Root Certification Authorities trusts signed drivers.***   
    
+
+Microsoft fixt Zebra-/Dymo-Druckproblem per KIR. 
+Dazu benötigt man evtl. Spezielle GPO  
+https://www.borncity.com/blog/2021/07/09/windows-10-microsoft-fixt-zebra-dymo-druckproblem-kb5004945-per-kir/?fbclid=IwAR2ECgMW3ujppthPQjUWLa1rb77QOVmUCUEZv9sz0LDa_R5Bt62FMZinwm4. 
+   
+
 Vogehensweise von der DATEV dokumentiert
 https://apps.datev.de/help-center/documents/1021024
 
