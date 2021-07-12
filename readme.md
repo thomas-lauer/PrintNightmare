@@ -59,6 +59,7 @@ hier werden teilweise Treiber nicht gefunden.***
 
 
 #### Links
+[detailierte Beschreibung von DATEV]<https://apps.datev.de/help-center/documents/1021024>  
 [Microsoft Info zu CVE-2021-34527]<https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-34527>  
 [BSI]<https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2021/2021-233732-1032.pdf?__blob=publicationFile&v=4>  
 [Malwarebytes]<https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/07/printnightmare-0-day-can-be-used-to-take-over-windows-domain-controllers/>  
